@@ -7,3 +7,5 @@ Original file is located at
     https://colab.research.google.com/drive/1-uaPG2O2BpbYXpDQJ2V40xX_tVLJQjdR
 """
 
+# svm
+
